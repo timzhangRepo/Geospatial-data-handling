@@ -1,0 +1,22 @@
+You need to sample 5 points, in 3 categories of your choice - libraries, cafes, waterworks, etc. Make a note of each location's name/label, category, coordinates.
+
+Café
+Tutor Hall Café: 34.020236, -118.290004
+Starbucks (Leavy): 34.021836, -118.282118
+Literatea Café: 34.020325, -118.283084
+Cammereli Café: 34.019258, -118.283116
+Fertitta Café: 34.018919, -118.281925
+
+Library
+Leavy Library: 34.021981, -118.282107
+Laufer Library: 34.020261, -118.287099
+Wilson Dental Library: 34.024275, -118.284834
+Hoosen Library of Philosophy: 34.018912, -118.286570
+Ethel Percy Andrus Gerontology Library: 34.020250, -118.290829
+
+Parking Structure
+USC Parking Lot 49: 34.026343, -118.287542
+USC parking lot 42: 34.027428, -118.285224
+USC Village Parking Garage: 34.025774, -118.283336
+USC Shrine Parking Structure: 34.024316, -118.279216
+Grand Avenue Structure: 34.020403, -118.275633

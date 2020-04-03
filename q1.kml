@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+
+<Folder>
+  <name>ConvexHull</name>
+      <Placemark>
+        <name>frankies path</name>
+        <LineString>
+            <coordinates>
+              -118.28657,34.018912,0
+              -118.290829,34.02025,0
+              -118.287542,34.026343,0
+              -118.285224,34.027428,0
+              -118.279216,34.024316,0
+              -118.275633,34.020403,0
+              -118.281925,34.018919,0
+              -118.28657,34.018912,0
+            </coordinates>
+        </LineString>
+    </Placemark>
+</Folder>
+
+<Folder>
+	<name>Cafe</name>
+<Style id="mystyle">
+  <IconStyle>
+    <scale>1.0</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/shapes/coffee.png</href>
+    </Icon>
+  </IconStyle>	
+ </Style>
+ <Style id="lib">
+  <IconStyle>
+    <scale>1.0</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+    </Icon>
+  </IconStyle>	
+ </Style>	
+ <Style id="parkings">
+  <IconStyle>
+    <scale>1.0</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+    </Icon>
+  </IconStyle>	
+ </Style>		
+<Placemark>
+<name>Tutor Hall Café</name>
+<description></description>
+<styleUrl> #mystyle</styleUrl> 
+<Point><coordinates>-118.290004,34.020236,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Starbucks (Leavy)</name>
+<description></description>
+<styleUrl> #mystyle</styleUrl> 
+<Point><coordinates>-118.282118,34.021836,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Literatea Café</name>
+<description></description>
+<styleUrl> #mystyle</styleUrl> 
+<Point><coordinates>-118.283084,34.020325,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cammereli Café</name>
+<description></description>
+<styleUrl> #mystyle</styleUrl> 
+<Point><coordinates>-118.283116,34.019258,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fertitta Café</name>
+<description></description>
+<styleUrl> #mystyle</styleUrl> 
+<Point><coordinates>-118.281925,34.018919,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder>
+	<name>Library</name>
+<Placemark>
+<name>Leavy Library</name>
+<description></description>
+<styleUrl> #lib</styleUrl> 
+<Point><coordinates>-118.282107,34.021981,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Laufer Library</name>
+<description></description>
+<styleUrl> #lib</styleUrl> 
+<Point><coordinates>-118.287099,34.020261,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Wilson Dental Library</name>
+<description></description>
+<styleUrl> #lib</styleUrl> 
+<Point><coordinates>-118.284834,34.024275,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hoosen Library of Philosophy</name>
+<description></description>
+<styleUrl> #lib</styleUrl> 
+<Point><coordinates>-118.28657,34.018912,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ethel Percy Andrus Gerontology Library</name>
+<description></description>
+<styleUrl> #lib</styleUrl> 
+<Point><coordinates>-118.290829,34.02025,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder>
+	<name>Parking Structure</name>
+<Placemark>
+<name>USC Parking Lot 49</name>
+<description></description>
+<styleUrl> #parkings</styleUrl> 
+<Point><coordinates>-118.287542,34.026343,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>USC parking lot 42</name>
+<description></description>
+<styleUrl> #parkings</styleUrl> 
+<Point><coordinates>-118.285224,34.027428,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>USC Village Parking Garage</name>
+<description></description>
+<styleUrl> #parkings</styleUrl> 
+<Point><coordinates>-118.283336,34.025774,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>USC Shrine Parking Structure</name>
+<description></description>
+<styleUrl> #parkings</styleUrl> 
+<Point><coordinates>-118.279216,34.024316,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grand Avenue Structure</name>
+<description></description>
+<styleUrl> #parkings</styleUrl> 
+<Point><coordinates>-118.275633,34.020403,0</coordinates></Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
